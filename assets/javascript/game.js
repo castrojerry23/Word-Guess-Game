@@ -44,4 +44,5 @@ document.onkeyup = function(event) {
         guessesLeft = 9;
         lettersGuessed = [];
         reset();          
-        } 
+        }
+    }
